@@ -1,36 +1,49 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# EmploymentHub — Client 💼
 
-## Getting Started
+### Connection Talent with Opportunity.
 
-First, run the development server:
+EmploymentHub is a full-stack job portal designed to connect job seekers with employment opportunities and help employers streamline their recruitment process.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## 🎯 Project Overview
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+EmploymentHub aims to simplify the recruitment process by providing a centralized platform where job seekers can explore career opportunities and employers can discover qualified candidates.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## ✨ Key Features
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+- User registration and authentication.
+- Job discovery and browsing.
+- Employer and job seeker accounts.
+- Job posting and management.
+- Candidate applications.
+- Recruitment management.
 
-## Learn More
+_Features will be documented and updated as development progress._
 
-To learn more about Next.js, take a look at the following resources:
+## 🛠️ Technologies Used
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+**Frontend**
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+- Next.js
+- React.js
+- JavaScript
+- Tailwind CSS
+- ShadeCN
+- Framer Motion
 
-## Deploy on Vercel
+**Authentication**
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+- BetterAuth
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+**Backend & Database**
+
+- MongoDB
+- Rest API
+
+## 📁 Project Repositories
+
+| Repository           | Description          |
+| -------------------- | -------------------- |
+| EmploymentHub Client | Frontend application |
+| EmploymentHub Server | Backend application  |
+
+_EmploymentHub — Connecting Talent with Opportunity._
